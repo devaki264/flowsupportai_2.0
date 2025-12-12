@@ -359,7 +359,7 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 
 ### **Page 3: Analytics & Performance**
 
-![Analytics overview](docs/screenshots/Screenshot__2969_.png)
+![Analytics overview](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173819.png)
 
 **Key Metrics (Top Row):**
 - **Total Tickets:** 3
@@ -387,7 +387,7 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
    - Shows average response time trends
    - Identifies performance bottlenecks
 
-![Analytics charts](docs/screenshots/Screenshot__2970_.png)
+![Analytics charts](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173835.png)
 
 5. **📢 Slack Notifications by Channel**
    - Shows distribution of escalations across teams
@@ -489,6 +489,7 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 **Built by Devakinandan Palla** 
 
 Demonstrating the exact capabilities from the Wispr Flow Customer Success AI Agent Engineer role.
+
 
 
 
