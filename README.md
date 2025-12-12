@@ -49,7 +49,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 1: Customer Submits Request**
 
-![Sarah Chen submits form](docs/screenshots/Screenshot__2952_.png)
+![Sarah Chen submits form](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%20(2952).png)
 
 **What's happening:**
 - Customer fills out the support form with their Mac transcription issue
@@ -60,7 +60,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 2: AI Generates Solution**
 
-![Sarah receives AI solution](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%20(2952).png)
+![Sarah receives AI solution](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%20(2953).png)
 
 **What's happening:**
 - RAG agent searches knowledge base using semantic similarity
@@ -79,7 +79,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 3: User Confirms Solution Worked**
 
-![Success confirmation](docs/screenshots/Screenshot__2954_.png)
+![Success confirmation](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%20(2954).png)
 
 **What's happening:**
 - Sarah clicks "✅ Yes, solved!" 
@@ -489,4 +489,5 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 **Built by Devakinandan Palla** 
 
 Demonstrating the exact capabilities from the Wispr Flow Customer Success AI Agent Engineer role.
+
 
