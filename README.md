@@ -49,7 +49,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 1: Customer Submits Request**
 
-![Sarah Chen submits form](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%20(2952).png)
+![Sarah Chen submits form](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173138.png)
 
 **What's happening:**
 - Customer fills out the support form with their Mac transcription issue
@@ -489,5 +489,6 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 **Built by Devakinandan Palla** 
 
 Demonstrating the exact capabilities from the Wispr Flow Customer Success AI Agent Engineer role.
+
 
 
