@@ -476,19 +476,12 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 
 ---
 
-## 🚀 Technical Implementation
-
-**Want to dive deeper into how this works?**
-
-- [Architecture Documentation](ARCHITECTURE.md) - RAG design, decision engine logic, data models
-- [Setup Guide](SETUP.md) - Run this locally in 5 minutes
-- [README](README.md) - Project overview & tech stack
-
 ---
 
 **Built by Devakinandan Palla** 
 
 Demonstrating the exact capabilities from the Wispr Flow Customer Success AI Agent Engineer role.
+
 
 
 
