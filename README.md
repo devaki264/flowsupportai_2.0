@@ -270,7 +270,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 **Terminal confirms the workflow:**
 
-![Terminal output](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173704.png)
+![Terminal output]
 ```
 ✅ Created ticket: ZD-1003
 ✅ Updated ticket ZD-1003: status=open, escalated=True
@@ -489,6 +489,7 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 **Built by Devakinandan Palla** 
 
 Demonstrating the exact capabilities from the Wispr Flow Customer Success AI Agent Engineer role.
+
 
 
 
