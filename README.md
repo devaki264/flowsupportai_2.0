@@ -60,7 +60,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 2: AI Generates Solution**
 
-![Sarah receives AI solution](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%20(2953).png)
+![Sarah receives AI solution](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173201.png)
 
 **What's happening:**
 - RAG agent searches knowledge base using semantic similarity
@@ -79,7 +79,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 3: User Confirms Solution Worked**
 
-![Success confirmation](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%20(2954).png)
+![Success confirmation](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173222.png)
 
 **What's happening:**
 - Sarah clicks "✅ Yes, solved!" 
@@ -91,7 +91,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 **Behind the scenes (tickets.json):**
 
-![Ticket data](docs/screenshots/Screenshot__2955_.png)
+![Ticket data](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173244.png)
 ```json
 {
   "id": "ZD-1001",
@@ -119,7 +119,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 1: Customer Submits Billing Issue**
 
-![Mike submits billing form](docs/screenshots/Screenshot__2956_.png)
+![Mike submits billing form](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173307.png)
 
 **What's happening:**
 - Mike selects **"Billing"** as request type
@@ -130,7 +130,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 2: Immediate Escalation**
 
-![Billing escalation](docs/screenshots/Screenshot__2957_.png)
+![Billing escalation](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173331.png)
 
 **What's happening:**
 - **No AI solution shown** (billing requires human verification)
@@ -144,7 +144,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 **Behind the scenes (slack_notifications.json):**
 
-![Slack notification](docs/screenshots/Screenshot__2958_.png)
+![Slack notification](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173352.png)
 ```json
 {
   "id": "NOTIF-1",
@@ -161,7 +161,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 **Behind the scenes (tickets.json):**
 
-![Ticket data](docs/screenshots/Screenshot__2959_.png)
+![Ticket data](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173421.png)
 
 **Terminal output confirms:**
 ```
@@ -184,7 +184,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 1: Customer Submits Technical Issue**
 
-![John submits form](docs/screenshots/Screenshot__2960_.png)
+![John submits form](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173446.png)
 
 **What's happening:**
 - Windows installation error with specific error code
@@ -195,7 +195,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 2: AI Provides Troubleshooting Steps**
 
-![AI solution provided](docs/screenshots/Screenshot__2961_.png)
+![AI solution provided](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173502.png)
 
 **What's happening:**
 - AI retrieves Windows installation troubleshooting docs
@@ -216,7 +216,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 3: User Indicates Solution Didn't Work**
 
-![Escalation after feedback](docs/screenshots/Screenshot__2962_.png)
+![Escalation after feedback](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173522.png)
 
 **What's happening:**
 - John clicks "❌ No, need help"
@@ -237,7 +237,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 **Behind the scenes (tickets.json):**
 
-![Updated ticket](docs/screenshots/Screenshot__2963_.png)
+![Updated ticket](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173536.png)
 ```json
 {
   "id": "ZD-1003",
@@ -253,7 +253,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 **Behind the scenes (slack_notifications.json):**
 
-![Slack notification](docs/screenshots/Screenshot__2964_.png)
+![Slack notification](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173642.png)
 ```json
 {
   "id": "NOTIF-2",
@@ -270,7 +270,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 **Terminal confirms the workflow:**
 
-![Terminal output](docs/screenshots/Screenshot__2965_.png)
+![Terminal output](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173704.png)
 ```
 ✅ Created ticket: ZD-1003
 ✅ Updated ticket ZD-1003: status=open, escalated=True
@@ -290,7 +290,7 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 
 ### **Page 1: Support Tickets Overview**
 
-![Support tickets page](docs/screenshots/Screenshot__2966_.png)
+![Support tickets page](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173730.png)
 
 **What TAMs see:**
 - **Summary metrics:**
@@ -332,7 +332,7 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 
 ### **Page 2: Slack Notifications**
 
-![Slack notifications](docs/screenshots/Screenshot__2968_.png)
+![Slack notifications](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%202025-12-12%20173754.png)
 
 **What TAMs see:**
 - **Summary:** Total: 2, Unread: 2
@@ -489,6 +489,7 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 **Built by Devakinandan Palla** 
 
 Demonstrating the exact capabilities from the Wispr Flow Customer Success AI Agent Engineer role.
+
 
 
 
