@@ -2,7 +2,7 @@
 
 > A multi-agent AI system that automates 70% of tier-1 support while preserving context and enabling proactive customer success operations.
 
-**Built for:** [Wispr Flow Customer Success AI Agent Engineer](https://jobs.ashbyhq.com/wispr) role
+**Built for:** Wispr Flow Customer Success AI Agent Engineer role
 
 ---
 
@@ -303,3 +303,4 @@ This project is for portfolio/demonstration purposes.
 ---
 
 **Ready to see it in action? [→ Check out the demo walkthrough!](DEMO.md)**
+
