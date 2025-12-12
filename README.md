@@ -60,7 +60,7 @@ We'll walk through three scenarios that showcase different system capabilities:
 
 ### **Step 2: AI Generates Solution**
 
-![Sarah receives AI solution](docs/screenshots/Screenshot__2953_.png)
+![Sarah receives AI solution](https://github.com/devaki264/flowsupportai_2.0/blob/main/screenshots/Screenshot%20(2952).png)
 
 **What's happening:**
 - RAG agent searches knowledge base using semantic similarity
@@ -489,3 +489,4 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 **Built by Devakinandan Palla** 
 
 Demonstrating the exact capabilities from the Wispr Flow Customer Success AI Agent Engineer role.
+
