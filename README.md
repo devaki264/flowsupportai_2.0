@@ -1,6 +1,6 @@
 # 🎬 FlowSupport AI - Complete Demo Walkthrough
 
-This document walks through the complete FlowSupport AI system, demonstrating how it handles three different support scenarios and how Technical Account Managers monitor everything through a unified dashboard.
+This document walks through the complete FlowSupport AI system, demonstrating how it handles three different support scenarios and how Technical Account Managers can monitor everything through a unified dashboard.
 
 ---
 
@@ -481,6 +481,7 @@ Now let's see how TAMs monitor all of this activity through the unified dashboar
 **Built by Devakinandan Palla** 
 
 Demonstrating the exact capabilities from the Wispr Flow Customer Success AI Agent Engineer role.
+
 
 
 
